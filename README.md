@@ -11,12 +11,10 @@
 
 - 📫 How to reach me **alvise.silve@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/alvise-silvestri-b89322235/](https://www.linkedin.com/in/alvise-silvestri-b89322235/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/mastrodeimastri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mastrodeimastri" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alvise silvestri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvise silvestri" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alvise-silvestri-b89322235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvise silvestri" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
