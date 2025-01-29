@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mastrodeimastri" alt="mastrodeimastri" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js, MongoDB, TailwindCSS, React-Navive**
+- 🌱 I’m currently learning **Apache Kafka, Apache Hop**
 
 - 👯 I’m looking to collaborate on **React and C# projects**
 
